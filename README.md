@@ -18,7 +18,7 @@ dalam **Financial Technology (FinTech)**, seperti *credit scoring* dan *risk ass
 Python · Google Colab · Pandas ·
 
 
-### **1. Pendahuluan**
+### **Pendahuluan**
 Proses seleksi calon mahasiswa pascasarjana, khususnya pada program Master of Business Administration (MBA), semakin mengandalkan analisis data untuk membantu pengambilan keputusan yang objektif dan akurat. Berbagai faktor seperti latar belakang akademik, pengalaman kerja, skor tes standar, serta karakteristik demografis sering menjadi indikator penting untuk menentukan apakah seorang pelamar layak diterima di suatu program MBA bergengsi.
 
 Dataset yang digunakan dalam tugas besar ini adalah MBA Admission Dataset, Class 2025, yaitu dataset yang dikembangkan berdasarkan statistik penerimaan mahasiswa dari Wharton School. Dataset ini dirancang untuk keperluan edukasi terkait analisis data, eksplorasi hubungan antar variabel, dan pemodelan machine learning untuk memprediksi status penerimaan mahasiswa. Data set diambil dari link https://www.kaggle.com/datasets/taweilo/mba-admission-dataset/data.
